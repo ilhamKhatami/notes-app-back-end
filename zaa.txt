@@ -1,0 +1,3 @@
+{title: "coba catatan", body: "coba body", tags: ["coba", "catatan"]}
+
+curl -X POST http://localhost:5000/notes \"{\"title\"": \"coba catatan\", \"bod\"y: \"coba body\", \"tags\"": \"[\"coba\", \"catatan\"]\"}\"
